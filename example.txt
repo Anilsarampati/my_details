@@ -1,0 +1,4 @@
+Name: ChatGPT
+Father's Name: OpenAI GPT
+Regd_no: 123456
+Area of Specialization: AI and Natural Language Processing
